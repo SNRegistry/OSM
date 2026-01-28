@@ -1,0 +1,9 @@
+[workspace]
+members = [
+  "crates/osm-server",
+  "crates/osm-agent",
+  "crates/osm-protocol",
+  "crates/osm-crypto"
+]
+
+resolver = "2"
