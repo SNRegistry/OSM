@@ -1,11 +1,11 @@
-#astro
-astro/node_modules/
-astro/dist/
+#react/ui
+ui/node_modules/
+ui/dist/
 
 #.env
 
-astro/.env
-astro/.env.*
+ui/.env
+ui/.env.*
 .env
 
 
